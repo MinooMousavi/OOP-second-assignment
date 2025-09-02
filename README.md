@@ -37,4 +37,4 @@ This simulation models colonies of predators and prey, where population changes 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/tundra-animal-simulation.git
+git clone https://github.com/MinooMousavi/OOP-second-assignment.git
